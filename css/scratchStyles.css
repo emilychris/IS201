@@ -16,7 +16,7 @@ p{
 }
 
 body{
-    background-color: #fcfcfc;
+    background-color: whitesmoke;
     font-family:'Times New Roman', Times, serif;
     text-align: center;
 }
@@ -27,7 +27,7 @@ ol{
 
 .header{
     height: 100px;
-    background-color: #eeeeee;
+    background-color: lightgray;
     color: black;
     line-height: 100px;
 }
@@ -35,7 +35,7 @@ ol{
 
 .footer{
     height: 25px;
-    background-color: #eeeeee;
+    background-color: lightgray;
     color: black;
     position: fixed;
     bottom: 0px;
